@@ -11,7 +11,7 @@ let rabbit = '🐇';
 '       🐇'
 
 // when you do:
-console.log(startLine);
+console.log(startLine, labbiak );
 console.log(turtle);
 console.log(rabbit);
 
