@@ -15,6 +15,8 @@ console.log(startLine, labbiak );
 console.log(turtle);
 console.log(rabbit);
 
+//little feature na waste 
+console.log(rabbit2);
 
 // #2) What happens when you run turtle.trim().padEnd(9, '=') on the turtle variable
 // Read about what the second parameter does in padEnd and padStart
